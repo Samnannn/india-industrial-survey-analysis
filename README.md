@@ -40,6 +40,4 @@ This repository contains cleaned and harmonized datasets created from the Annual
 
 ## Author
 
-Mohd Samnan
-B.A. Economics (Hons.)
-Jamia Millia Islamia
+Samnan
